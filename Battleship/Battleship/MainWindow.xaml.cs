@@ -34,7 +34,7 @@ namespace Battleship
             Foxtrot.Visibility = Visibility.Hidden;
             Gamma.Visibility = Visibility.Hidden;
             Hotel.Visibility = Visibility.Hidden;
-            Indego.Visibility = Visibility.Hidden;
+            Indego.Visibility = Visibility.Hidden;s
             Juliet.Visibility = Visibility.Hidden;
         }
 
