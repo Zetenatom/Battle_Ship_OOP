@@ -26,3 +26,10 @@ C:\Users\MSinclair\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\
 C:\Users\MSinclair\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.Cache
 C:\Users\MSinclair\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\Battleship.exe
 C:\Users\MSinclair\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\Battleship.pdb
+C:\Users\Shamacron\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\Battleship.csprojResolveAssemblyReference.cache
+C:\Users\Shamacron\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\MainWindow.g.cs
+C:\Users\Shamacron\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\App.g.cs
+C:\Users\Shamacron\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\Battleship_MarkupCompile.cache
+C:\Users\Shamacron\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\Battleship_MarkupCompile.lref
+C:\Users\Shamacron\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\Shamacron\Source\Repos\Battle_Ship_OOP\Battleship\Battleship\obj\Debug\Battleship.pdb
