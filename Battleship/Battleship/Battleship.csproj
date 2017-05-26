@@ -62,12 +62,25 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Controller\Controller.cs" />
+    <Compile Include="Controller\Driver.cs" />
+    <Compile Include="Enum\TileStates.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Board\Board.cs" />
+    <Compile Include="Models\Players\AI.cs" />
+    <Compile Include="Models\Players\Human.cs" />
+    <Compile Include="Models\Players\Player.cs" />
+    <Compile Include="Models\Ships\Battleship.cs" />
+    <Compile Include="Models\Ships\Carrier.cs" />
+    <Compile Include="Models\Ships\Cruiser.cs" />
+    <Compile Include="Models\Ships\Destroyer.cs" />
+    <Compile Include="Models\Ships\Ship.cs" />
+    <Compile Include="Models\Ships\Submarine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -93,5 +106,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
