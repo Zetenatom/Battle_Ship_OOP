@@ -90,27 +90,28 @@
         <Button Name="button8" Click="Button_Click8" Grid.Column="11" Grid.Row="8">8</Button>
         <Button Name="button9" Click="Button_Click9" Grid.Column="11" Grid.Row="9">9</Button>
         <Button Name="button10" Click="Button_Click10" Grid.Column="11" Grid.Row="10">10</Button>
-        <Label Name="P1A1" Grid.Column="1" Grid.Row="1"></Label>
-        <Label Name="P1A2" Grid.Column="1" Grid.Row="2"></Label>
-        <Label Name="P1A3" Grid.Column="1" Grid.Row="3"></Label>
-        <Label Name="P1A4" Grid.Column="1" Grid.Row="4"></Label>
-        <Label Name="P1A5" Grid.Column="1" Grid.Row="5"></Label>
-        <Label Name="P1A6" Grid.Column="1" Grid.Row="6"></Label>
-        <Label Name="P1A7" Grid.Column="1" Grid.Row="7"></Label>
-        <Label Name="P1A8" Grid.Column="1" Grid.Row="8"></Label>
-        <Label Name="P1A9" Grid.Column="1" Grid.Row="9"></Label>
-        <Label Name="P1A10" Grid.Column="2" Grid.Row="10"></Label>
-        <Label Name="P1B1" Grid.Column="2" Grid.Row="1"></Label>
-        <Label Name="P1B2" Grid.Column="2" Grid.Row="2"></Label>
-        <Label Name="P1B3" Grid.Column="2" Grid.Row="3"></Label>
-        <Label Name="P1B4" Grid.Column="2" Grid.Row="4"></Label>
-        <Label Name="P1B5" Grid.Column="2" Grid.Row="5"></Label>
-        <Label Name="P1B6" Grid.Column="2" Grid.Row="6"></Label>
-        <Label Name="P1B7" Grid.Column="2" Grid.Row="7"></Label>
-        <Label Name="P1B8" Grid.Column="2" Grid.Row="8"></Label>
-        <Label Name="P1B9" Grid.Column="2" Grid.Row="9"></Label>
-        <Label Name="P1B10" Grid.Column="2" Grid.Row="10"></Label>
-        <Label Name="P1C1" Grid.Column="3" Grid.Row="1"></Label>
+       
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A1" Grid.Column="1" Grid.Row="1"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A2" Grid.Column="1" Grid.Row="2"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A3" Grid.Column="1" Grid.Row="3"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A4" Grid.Column="1" Grid.Row="4"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A5" Grid.Column="1" Grid.Row="5"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A6" Grid.Column="1" Grid.Row="6"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A7" Grid.Column="1" Grid.Row="7"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A8" Grid.Column="1" Grid.Row="8"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A9" Grid.Column="1" Grid.Row="9"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1A10" Grid.Column="2" Grid.Row="10"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B1" Grid.Column="2" Grid.Row="1"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B2" Grid.Column="2" Grid.Row="2"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B3" Grid.Column="2" Grid.Row="3"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B4" Grid.Column="2" Grid.Row="4"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B5" Grid.Column="2" Grid.Row="5"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B6" Grid.Column="2" Grid.Row="6"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B7" Grid.Column="2" Grid.Row="7"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B8" Grid.Column="2" Grid.Row="8"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B9" Grid.Column="2" Grid.Row="9"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1B10" Grid.Column="2" Grid.Row="10"></Label>
+        <Label MouseDown="LabelClick_MouseDown" Name="P1C1" Grid.Column="3" Grid.Row="1"></Label>
         <Label Name="P1C2" Grid.Column="3" Grid.Row="2"></Label>
         <Label Name="P1C3" Grid.Column="3" Grid.Row="3"></Label>
         <Label Name="P1C4" Grid.Column="3" Grid.Row="4"></Label>
